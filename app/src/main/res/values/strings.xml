@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LogoQuiz</string>
+    <string name="correct_guess">Congratulations! Your guess is correct.</string>
+    <string name="incorrect_guess">Oops! Your guess is incorrect.</string>
+</resources>
